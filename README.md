@@ -14,6 +14,6 @@
 Установка:
 1. Склонируйте репозиторий: git clone https://github.com/your_username/voice-assistant.git
 2. Установите зависимости: pip install -r requirements.txt
-3. Запустите скрипт: python voice_assistant.py
+3. Запустите скрипт: python main.py
 
 Давайте ваши голосовые команды возьмут контроль над вашим ПК! Присоединяйтесь к нам и внесите свой вклад в развитие этого голосового помощника.
